@@ -1,3 +1,3 @@
-- 👋 Hello I am Harsweet
-- 📚 I am CS Major at the UofC
-- 👀 I’m interested in Web and App Development and do a bit of Competitive Coding on the sidelines
+👋 Hello I am Harsweet
+📚 CS Major at UofC
+👀 Always up for a chat on Web Development 🕸️, chess ♟️ and cricket 🏏
